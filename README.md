@@ -1,5 +1,5 @@
 ![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=sstopkin&show_icons=true&count_private=true&theme=transparent)
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sstopkin&layout=compact&theme=transparent) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sstopkin&theme=transparent) -->
 
 
 <!--
